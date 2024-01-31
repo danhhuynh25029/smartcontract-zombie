@@ -1,4 +1,4 @@
-pragma solidity ^0.4.25;
+pragma solidity ^0.8.22;
 
 contract ZombieFactory {
     event NewZombie(uint256 zombieId, string name, uint256 dna);
